@@ -1,6 +1,6 @@
 # CeTTyAssist
 
-CeTTyAssist is a lightweight WoW Retail recommendation display addon.
+CeTTyAssist is a lightweight WoW Retail recommendation display addon. (inspired by Hekili visually)
 
 It reads Blizzard Single Button Assist recommendations and mirrors them as a multi-icon queue to help you learn a simple rotation flow.
 

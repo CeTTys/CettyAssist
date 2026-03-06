@@ -1,9 +1,10 @@
 ## Interface: 120001
 ## Title: CeTTyAssist
-## Notes: Hekili-style recommendation engine (no automation)
+## Notes: CeTTyAssist is a lightweight WoW Retail recommendation display addon. (inspired by Hekili visually)
 ## Author: AI Playground
 ## Version: 0.1.0
 ## SavedVariables: CeTTyAssistDB
+## IconTexture: Interface\AddOns\CeTTyAssist\Media\Logo
 
 Core.lua
 State.lua
