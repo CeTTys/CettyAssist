@@ -1,0 +1,12 @@
+## Interface: 120001
+## Title: CeTTyAssist
+## Notes: Hekili-style recommendation engine (no automation)
+## Author: AI Playground
+## Version: 0.1.0
+## SavedVariables: CeTTyAssistDB
+
+Core.lua
+State.lua
+Engine.lua
+UI.lua
+Slash.lua
