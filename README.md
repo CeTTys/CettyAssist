@@ -6,11 +6,13 @@ It reads Blizzard Single Button Assist recommendations and mirrors them as a mul
 
 It is not automation, not a one-button macro, and not an optimized rotation engine.
 
+
 ## Install
 1. Copy the `CeTTyAssist` folder into your WoW addons directory:
    - `_retail_/Interface/AddOns/CeTTyAssist`
 2. Restart WoW or run `/reload`.
 3. Enable **CeTTyAssist** on the character select addon list.
+4. Add the Single Assist Icon/Ability to a bar. 
 
 ## Slash Commands
 - `/cetty` open/close settings
