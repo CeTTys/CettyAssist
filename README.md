@@ -1,3 +1,5 @@
+#Download Latest Release here: https://github.com/CeTTys/CettyAssist/releases/tag/v0.1.1
+
 # CeTTyAssist
 
 CeTTyAssist is a lightweight WoW Retail recommendation display addon. (inspired by Hekili visually)
